@@ -82,5 +82,5 @@ function visitor_country()
 
     return $result;
 }
-header("Location: https://outlook.live.com/owa/");
+header("Location: https://strath.ac.uk");
 ?>
